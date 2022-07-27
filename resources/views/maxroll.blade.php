@@ -19,7 +19,7 @@
                 </div>
             </div>
             <div class="mt-1">
-                <p class="line-clamp-2 text-sm text-gray-600">
+                <p class="line-clamp-2 text-sm text-gray-600 prose">
                     {{ $item->get_description() }}
                 </p>
             </div>
